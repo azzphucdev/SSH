@@ -1,0 +1,50 @@
+{
+ "Version": "2.1.11",
+ "AppVersionName": "3.6.0",
+ "AppVersionCode": 9,
+ "isUpdated": true,
+ "ReleaseNotes": "Added StrongTeam",
+ "Apps": [
+  {
+   "Name": "Marvs VPN",
+   "Info": "Free Tunnel Config",
+   "ConfigUpdate": "https://strongteam.co/api/marvs/marvs.json",
+   "ConfigPass": "MarvsVPNTeam",
+   "ConfigNote": "",
+   "ConfigDelta": "",
+   "ConfigType": "ONES"
+  },  {
+   "Name": "MikSocks VPN",
+   "Info": "Free Tunnel Config",
+   "ConfigUpdate": "https://strongteam.co/api/miksocks/udp2.json",
+   "ConfigPass": "MarvsVPNTeam",
+   "ConfigNote": "",
+   "ConfigDelta": "",
+   "ConfigType": "ONES"
+  }, {
+   "Name": "VPM EMPIRE SSH",
+   "Info": "Free Tunnel Config",
+   "ConfigUpdate": "https://strongteam.co/vpnempiressh/udp.json",
+   "ConfigPass": "udpnidukie",
+   "ConfigNote": "",
+   "ConfigDelta": "",
+   "ConfigType": "ONES"
+  },  {
+   "Name": "Pokzmar VPN",
+   "Info": "Free Tunnel Config",
+   "ConfigUpdate": "https://strongteam.co/api/pokzmar/pokzmar.json",
+   "ConfigPass": "sandoki",
+   "ConfigNote": "",
+   "ConfigDelta": "",
+   "ConfigType": "JIMZTAH"
+  },  {
+   "Name": "Jimztah Tunnel",
+   "Info": "Free Tunnel Config",
+   "ConfigUpdate": "https://strongteam.co/api/jimmytunnel/jimztahtunnel.json",
+   "ConfigPass": "sandoki",
+   "ConfigNote": "",
+   "ConfigDelta": "",
+   "ConfigType": "JIMZTAH"
+  }
+ ]
+}
